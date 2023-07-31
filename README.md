@@ -24,7 +24,8 @@ It would be great for us if the reporter can share the below things to understan
 - Device specification like (Manufacturer, OS version, etc)
 - Screenshot/video with steps to reproduce the issue
 
-# LICENSE!
+# LICENSE!<br>
+[출처]
 Animated Segment is [MIT-licensed](https://github.com/Mindinventory/animated_segment/blob/master/LICENSE "MIT-licensed").
 
 # Let us know!
